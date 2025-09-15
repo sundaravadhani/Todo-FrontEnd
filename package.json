@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://sundaravadhani.github.io/Todo-FrontEnd/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
